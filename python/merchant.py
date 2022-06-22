@@ -114,5 +114,5 @@ def create_order():
 
 create_order()
 
-# You are free to test on more endpoint with send_signed_request
+# You are free to test on more endpoints with send_signed_request
 # https://developers.binance.com/docs/binance-pay/api-order-create
